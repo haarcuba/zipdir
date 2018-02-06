@@ -6,7 +6,7 @@ requires = []
 tests_require = []
 
 setup(name='zipdir',
-      version='0.1.1',
+      version='0.1.2',
       description=README,
       long_description=README,
       url='https://github.com/haarcuba/zipdir',
